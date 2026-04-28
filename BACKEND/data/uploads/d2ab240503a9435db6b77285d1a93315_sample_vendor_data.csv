@@ -1,0 +1,5 @@
+part_number,description,hsn_code,bcd,cvd,sws,igst
+P1001,Brake Pad,8708,10,12,5,18
+P1002,Engine Valve,,15,10,5,18
+P1003,Clutch Plate,9999,-5,10,5,18
+P1004,Gear Box,8409,12,10,5,18

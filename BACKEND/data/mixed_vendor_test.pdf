@@ -1,0 +1,88 @@
+%PDF-1.3
+%‚„œ”
+1 0 obj
+<<
+/Producer (pypdf)
+>>
+endobj
+2 0 obj
+<<
+/Type /Pages
+/Count 1
+/Kids [ 4 0 R ]
+>>
+endobj
+3 0 obj
+<<
+/Type /Catalog
+/Pages 2 0 R
+>>
+endobj
+4 0 obj
+<<
+/Type /Page
+/Resources <<
+/Font <<
+/F1 <<
+/Type /Font
+/Subtype /Type1
+/BaseFont /Helvetica
+>>
+>>
+>>
+/MediaBox [ 0.0 0.0 792 612 ]
+/Parent 2 0 R
+/Contents <<
+/Length 802
+>>
+stream
+BT
+/F1 10 Tf
+40 560 Td
+(Vendor Mixed Compliance Test File) Tj
+0 -22 Td
+(part_number | description | hsn_code | bcd | cvd | sws | igst) Tj
+0 -22 Td
+(P2001 | Brake Pad | 8708 | 10 | 12 | 5 | 18) Tj
+0 -22 Td
+(P2002 | Engine Valve |  | 15 | 10 | 5 | 18) Tj
+0 -22 Td
+(P2003 | Clutch Plate | 9999 | -5 | 10 | 5 | 18) Tj
+0 -22 Td
+(P2004 | Gear Box | 8409 | 12 | 10 | 5 | 18) Tj
+0 -22 Td
+(P2005 | Axle | 8708 | 200 | 10 | 5 | 18) Tj
+0 -22 Td
+(P2006 | Radiator | 8409 | 10 | 10 | 5 | 18) Tj
+0 -22 Td
+(P2007 | Wheel | 8708 | 10 |  | 5 | 18) Tj
+0 -22 Td
+(P2008 | Battery | 8507 | 10 | 10 | 5 | 18) Tj
+0 -22 Td
+(P2009 | Mirror | 8708 | 10 | 10 | 5 | 18) Tj
+0 -22 Td
+(P2010 | Seat |  | 10 | 10 | 5 | 18) Tj
+0 -22 Td
+(P2011 | Door | 8708 | 10 | 10 | 5 | 18) Tj
+0 -22 Td
+(P2012 | Hood | 8708 | -1 | 10 | 5 | 18) Tj
+ET
+endstream
+>>
+endobj
+xref
+0 5
+0000000000 65535 f 
+0000000015 00000 n 
+0000000054 00000 n 
+0000000113 00000 n 
+0000000162 00000 n 
+trailer
+<<
+/Size 5
+/Root 3 0 R
+/Info 1 0 R
+>>
+startxref
+1175
+%%EOF

@@ -1,0 +1,13 @@
+part_number,description,hsn_code,bcd,cvd,sws,igst
+P2001,Brake Pad,8708,10,12,5,18
+P2002,Engine Valve,,15,10,5,18
+P2003,Clutch Plate,9999,-5,10,5,18
+P2004,Gear Box,8409,12,10,5,18
+P2005,Axle,8708,200,10,5,18
+P2006,Radiator,8409,10,10,5,18
+P2007,Wheel,8708,10,,5,18
+P2008,Battery,8507,10,10,5,18
+P2009,Mirror,8708,10,10,5,18
+P2010,Seat,,10,10,5,18
+P2011,Door,8708,10,10,5,18
+P2012,Hood,8708,-1,10,5,18

@@ -1,0 +1,16 @@
+part_number,description,hsn_code,bcd,cvd,sws,igst
+P3001,Brake Pad,8708,10,12,5,18
+P3002,Engine Valve,8409,12,10,5,18
+P3003,Clutch Plate,8708,8,10,5,18
+P3004,Gear Box,8409,12,10,5,18
+P3005,Axle,8708,10,10,5,18
+P3006,Radiator,8409,10,10,5,18
+P3007,Wheel,8708,10,10,5,18
+P3008,Battery,8507,10,10,5,18
+P3009,Mirror,8708,10,10,5,18
+P3010,Door,8708,10,10,5,18
+P3011,Headlight,8512,10,10,5,18
+P3012,Fuel Pump,8413,10,10,5,18
+P3013,Air Filter,,10,10,5,18
+P3014,Oil Filter,9999,10,10,5,18
+P3015,Spark Plug,8511,-5,10,5,18
